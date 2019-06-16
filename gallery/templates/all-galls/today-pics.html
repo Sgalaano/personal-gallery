@@ -4,20 +4,24 @@
 
 <div class="container">
 
+    <div class="imtitle" style="display: flex; text-align: center; margin: 5%;">
+        <img src="http://www.pngmart.com/files/7/Gallery-PNG-Pic.png" style="width: 12%; border: none"; height="12%; margin-right: 2%">
+        <h1>Wako's Gallery</h1>
+      </div>
+
   <!-- Looping through news   -->
-  {% for pics_item in gallery %}
+  
 
-  <div class="row">
-    <!-- displaying  Gallery Photos -->
-    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-      <h2 class="text-center"> {{ pics_item.title }} </h2>
+  
+  {% for pics_item in gallery %}  
+  <!--Display picture Photo images  -->
+  <div class="col-md-4">
+    <div class="card">
+        
+        <h2 class="text-center"> {{ pics_item.title }} </h2>
+       <img class="card body img-fluid" src="{{pics_item.photo_image.url}}" class="img-responsive" alt="Image">
+       
     </div>
-
-  </div>
-
-  <!--Display news Article images  -->
-  <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-    <img src="{{pics_item.photo_image.url}}" class="img-responsive" alt="Image">
   </div>
 
 
