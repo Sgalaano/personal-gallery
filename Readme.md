@@ -5,12 +5,7 @@ Galaano Suleiman
 
 # DESCRIPTION
 This is an app that allows a user to add their photos once they sign in as a user or admin
-### Pitch Categories
-- Technology pitch
-- Business pitch
-- entertainment pitch
-- Interview pitch
-- Business pitch
+
 ### User Stories
 - A users can see pitches that other people have post
 - A user can comment on different pitches and leave feedback
