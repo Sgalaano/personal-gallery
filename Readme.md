@@ -24,7 +24,7 @@ This project uses major technologies which are :
 - CSS for styling.
 - HTML for webpage design.
 - Python3.6.
-* Django 1.11.5
+- Django 1.11.5
 
 ## Support and Contacts
  - sgalaano@gmail.com
