@@ -21,9 +21,10 @@ This is an app that allows a user to add their photos once they sign in as a use
 
 #Technologies Used
 This project uses major technologies which are :
-- Bootstrap3
-- Python3.6
-- django
+- CSS for styling.
+* HTML for webpage design.
+* Python3.6.
+* Django 1.11.5
 
 ## Support and Contacts
  - sgalaano@gmail.com
