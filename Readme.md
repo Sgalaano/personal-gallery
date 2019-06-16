@@ -10,13 +10,10 @@ This is an app that allows a user to add their photos once they sign in as a use
 - A users can see the admin photos
 - A user can sign in as a user and add a photo
 - A user can search for a desired photo
-- A user can submit to different categories
+
 
 ## BEHAVIOUR DRIVEN DEVELOPMENT
-| GENERAL BEHAVIOUR | INPUT | OUTPUT|
-|:------------------|:--------|:-----------|
-|User wants to create a pitch| They create an account |user receives an email to welcome them|
-|User wants to view different pitch categories| They search for the category |Pitches in that category are displayed|
+
 
 ALL THE PITCHES ADDED WILL BE STORED IN THE DATABASE. 
 git clone : https://github.com/Sgalaano/Pitch.git to acces the database 
