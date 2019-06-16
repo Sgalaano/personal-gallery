@@ -14,15 +14,16 @@ This is an app that allows a user to add their photos once they sign in as a use
 
 ## BEHAVIOUR DRIVEN DEVELOPMENT
 
-
-ALL THE PITCHES ADDED WILL BE STORED IN THE DATABASE. 
-git clone : https://github.com/Sgalaano/Pitch.git to acces the database 
+| Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
+| :-------------: | :-------------: | :-------------: |
+| View Image Details | Click on Image  | Image Full size with details |
+| Search for image by category or location | Enter search word and submit | Display searched item | 
 
 #Technologies Used
 This project uses major technologies which are :
-- Bootstrap
+- Bootstrap3
 - Python3.6
-- flask
+- django
 
 ## Support and Contacts
  - sgalaano@gmail.com
