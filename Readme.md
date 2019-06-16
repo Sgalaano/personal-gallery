@@ -26,6 +26,9 @@ This project uses major technologies which are :
 - Python3.6.
 - Django 1.11.5
 
+## Dependencies
+- pip
+
 ## Support and Contacts
  - sgalaano@gmail.com
  - 0796184389
