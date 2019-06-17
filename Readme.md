@@ -31,7 +31,7 @@ This project uses major technologies which are :
 
 ## Support and Contacts.
  - sgalaano@gmail.com.
- - 0796184389
+ - 0796184389.
 
 ## License
  MIT License.
