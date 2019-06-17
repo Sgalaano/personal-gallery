@@ -30,7 +30,7 @@ This project uses major technologies which are :
 - pip
 
 ## Support and Contacts.
- - sgalaano@gmail.com
+ - sgalaano@gmail.com.
  - 0796184389
 
 ## License
