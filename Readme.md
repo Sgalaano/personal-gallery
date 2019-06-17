@@ -19,7 +19,7 @@ This is an app that allows a user to add their photos once they sign in as a use
 | View Image Details | Click on Image  | Image Full size with details |
 | Search for image by category or location | Enter search word and submit | Display searched item | 
 
-#Technologies Used.
+#Technologies Used
 This project uses major technologies which are :
 - CSS for styling.
 - HTML for webpage design.
