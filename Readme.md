@@ -26,7 +26,7 @@ This project uses major technologies which are :
 - Python3.6.
 - Django 1.11.5
 
-## Dependencies.
+## Dependencies
 - pip.
 
 ## Support and Contacts.
