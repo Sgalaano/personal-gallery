@@ -1,5 +1,5 @@
 # APP NAME
-Personal-Gallery
+Personal-Gallery.
 # AUTHOR
 Galaano Suleiman
 
