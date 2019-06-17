@@ -6,7 +6,7 @@ Galaano Suleiman.
 # DESCRIPTION.
 This is an app that allows a user to add their photos once they sign in as a user or admin
 
-### User Stories
+### User Stories.
 - A users can see the admin photos
 - A user can sign in as a user and add a photo
 - A user can search for a desired photo
