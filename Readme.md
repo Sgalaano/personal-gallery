@@ -4,7 +4,7 @@ Personal-Gallery.
 Galaano Suleiman.
 
 # DESCRIPTION.
-This is an app that allows a user to add their photos once they sign in as a user or admin
+This is an app that allows a user to add their photos once they sign in as a user or admin.
 
 ### User Stories.
 - A users can see the admin photos
