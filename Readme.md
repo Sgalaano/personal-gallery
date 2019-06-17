@@ -12,7 +12,7 @@ This is an app that allows a user to add their photos once they sign in as a use
 - A user can search for a desired photo
 
 
-## BEHAVIOUR DRIVEN DEVELOPMENT
+## BEHAVIOUR DRIVEN DEVELOPMENT.
 
 | Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
 | :-------------: | :-------------: | :-------------: |
