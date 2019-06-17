@@ -29,7 +29,7 @@ This project uses major technologies which are :
 ## Dependencies
 - pip
 
-## Support and Contacts
+## Support and Contacts.
  - sgalaano@gmail.com
  - 0796184389
 
