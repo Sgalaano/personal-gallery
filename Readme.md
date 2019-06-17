@@ -27,7 +27,7 @@ This project uses major technologies which are :
 - Django 1.11.5
 
 ## Dependencies.
-- pip
+- pip.
 
 ## Support and Contacts.
  - sgalaano@gmail.com.
